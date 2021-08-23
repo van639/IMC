@@ -115,8 +115,12 @@ section{
     border-radius: 5px;
     padding: 10px;
 }
-
-
+.vermelho{
+    color: red;
+}
+.azul{
+    color: blue;
+}
 footer{
     height: 40px;
     text-align: center;
